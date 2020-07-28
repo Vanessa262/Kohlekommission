@@ -25,7 +25,7 @@
 - Geschlecht des Knotens 
 - male=1 
 - female=2 
-- NA (Organisationen)
+- NA(Organisationen)= 99
 
 # age 
 - 0 = Organisationen/Unternehmen/Verbände
@@ -52,13 +52,13 @@
 - 4=Umwelt 
 - 5=Regionen
 - 6=Wissenschaft
-- NA (keine Funktion in der Kommission)
+- 99= NA(keine Funktion in der Kommission)
 
 # position
 - 1=Vorsitz
 - 2=Mitglied
 - 3=kein Stimmrecht
-- NA (keine Position) 
+- 99=NA(keine Position) 
 
 # state (Bundesland)
 - 1=Brandenburg 
@@ -71,4 +71,4 @@
 - 8=Schleswig-Holstein 
 - 9=Hamburg
 - 10=Berlin
-- NA (keine Angaben)
+- 99=NA(keine Angaben)
